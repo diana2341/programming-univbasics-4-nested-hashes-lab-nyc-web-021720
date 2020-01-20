@@ -88,8 +88,7 @@ def adding_matz
         }
      }
 
-    puts programmer_hash
- 
+
 end
 
 def changing_alan
