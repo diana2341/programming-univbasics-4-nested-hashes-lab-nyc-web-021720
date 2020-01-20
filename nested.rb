@@ -128,7 +128,7 @@ def adding_to_dennis
           :known_for => "Unix",
           :languages => ["C"]
         }
-        programmer_hash[:alan_kay][:known_for] = "GUI"
+       
      }
 
 end
